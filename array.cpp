@@ -3,7 +3,6 @@ using namespace std;
 
 int nilai[]={1,2,3};
 int skor[4]={12,24,48,64};
-//deklarasi array dengan ukuran, tanpa nilai awal
 string nama[3];
 
 int main(){
