@@ -10,7 +10,6 @@ int main(){
     skor[2] = 100;
     cout << "Tampilkan skor ke 3 = " << skor[2] << endl;
 
-    //mengisis array dengan looping for
     for(int n = 0; n < 3; n++){
         cout << "Mahasiswa ke- = " << n+1 << endl;
         cout << "Nama Mahasiswa = ";
