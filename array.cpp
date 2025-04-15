@@ -16,7 +16,6 @@ int main(){
         cin >> nama[n];
     }
     cout << endl;
-    //menampilkan isi array
     for(int n = 0; n < 3; n++){
         cout << "Mahasiswa ke -" << nama[n];
         cout << "Nama Mahasiswa = " << nama[n] << endl;
