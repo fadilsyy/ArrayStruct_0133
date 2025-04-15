@@ -6,7 +6,6 @@ int skor[4]={12,24,48,64};
 string nama[3];
 
 int main(){
-    //menampilkan isi array pada index tertentu
     cout << "Tampilkan skor ke 3 = " << skor[2] << endl;
     //mengisi array pada index tertentu
     skor[2] = 100;
