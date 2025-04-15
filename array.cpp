@@ -8,7 +8,6 @@ string nama[3];
 int main(){
     cout << "Tampilkan skor ke 3 = " << skor[2] << endl;
     skor[2] = 100;
-    //menampilkan isi array pada index tertentu
     cout << "Tampilkan skor ke 3 = " << skor[2] << endl;
 
     //mengisis array dengan looping for
