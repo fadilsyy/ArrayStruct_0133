@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-//deklarasi array tanpa ukuran, wajib diisi data
 int nilai[]={1,2,3};
 //deklarasi array dengan ukuran, diisi data awal
 int skor[4]={12,24,48,64};
